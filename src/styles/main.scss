@@ -1,4 +1,4 @@
-@import "_variables.scss";
+@import "config/variables";
 
 body{
     background-color: $color-fondo;
@@ -6,3 +6,11 @@ body{
     justify-content: center;
     margin-top: 10rem;
 }
+
+// @import "scss/config/variables";
+// @import "scss/base/base";
+// @import "scss/layout/layout";
+// @import "scss/components/header";
+
+
+
